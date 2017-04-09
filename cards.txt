@@ -1,0 +1,2 @@
+{"front":"What year did the Beatles release the album Sgt. Pepper's Lonely Hearts Club Band ?","back":"1967","type":"basic"};{"front":"Where are the Beatles from?","back":"England","type":"basic"};
+{"text":"The molecules H20 make up water.","cloze":"H20","clozeDelete":"The molecules ___________ make up water.","type":"cloze"};
